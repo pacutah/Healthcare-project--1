@@ -20,7 +20,9 @@ Across the blood group O+ had the lowest reports of Cancers, B+ had lowest repor
 
 # Recommendations
 The Insurance company can utilize the above information to target and provide health information and services to the older population who are major consumers of the health services.
+
 The gender-specific information and services could be tailored to suit the different gender due to illnesses common among them.
+
 Proactive measures and information to curb emergencies could be put in place. Actions could be taken to educate and proactively target clients who could end up with emergencies
 
 # Limitations
