@@ -2,7 +2,7 @@
 This is healthcare data analysis project taken to deepen my skill in data analysis.
 
 # Documentation
-The data was an Excel sheet downloaded from Kaggle which is an improvised healthcare data for practice. It had 16 columns and 55501 rows of health information. Only columns  relevant to the analysis were considered. Data cleaning and manipulation were done to remove irrelevant columns, data types changed, date data type adjustments to extract number of  days were done.
+The data was an Excel sheet downloaded from Kaggle which is an improvised healthcare data for practice. It had 16 columns and 55501 rows of health information. Only columns  relevant to the analysis were considered. Data cleaning and manipulation were done to remove irrelevant columns, data types changed, date data type adjustments to extract number of  days were done. The tools used were Excel for exploratory analysis and PowerBI for visualizations
 
 # Key Insights
 A total of 1.42 billion was spent settling health insurance costs within the 5-year period  which covered 2019 to 2024. There was a sudden spike in spending late 2019 to early 2020 and the pattern was replicated amongst all 5 insurance providers that were a part of the scheme.40 thousand doctors and 40 thousand hospitals were assessed within the specified period and over 860 thousand days were spent by patients on admission cumulatively.
